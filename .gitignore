@@ -1,0 +1,12 @@
+node_modules/
+data/*.db-wal
+data/*.db-shm
+.env
+.env.local
+*.log
+test-live.ps1
+.DS_Store
+uploads/evidence/*
+!uploads/evidence/.gitkeep
+uploads/moments/*
+!uploads/moments/.gitkeep
