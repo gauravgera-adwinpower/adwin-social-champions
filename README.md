@@ -30,14 +30,14 @@
 ## 🏢 Social Channels (Configurable by Admin)
 
 ### Official ADWIN Channels
-1. **Facebook:** [ADWIN India Official](https://facebook.com/adwinindia) (`@adwinindia`)
-2. **Instagram:** [ADWIN India Official](https://instagram.com/adwinindia) (`@adwinindia`)
-3. **LinkedIn:** [ADWIN Energy Company](https://linkedin.com/company/adwin-energy) (`adwin-energy`)
-4. **YouTube:** [ADWIN Energy Channel](https://youtube.com/@adwinenergy) (`@adwinenergy`)
+1. **Facebook:** [ADWIN India Official](https://www.facebook.com/adwinbatteries) (`@adwinindia`)
+2. **Instagram:** [ADWIN India Official](https://www.instagram.com/adwin_power/) (`@adwinindia`)
+3. **LinkedIn:** [ADWIN Energy Company](https://www.linkedin.com/company/adwin-power) (`adwin-energy`)
+4. **YouTube:** [ADWIN Energy Channel](https://www.youtube.com/@adwinpower) (`@adwinenergy`)
 
 ### Leadership Thought Leadership Channels
-5. **Rishabh Gupta – Instagram:** [Rishabh Gupta Executive](https://instagram.com/rishabhgupta_adwin) (`@rishabhgupta_adwin`)
-6. **Rishabh Gupta – LinkedIn:** [Rishabh Gupta Executive Profile](https://linkedin.com/in/rishabh-gupta-adwin) (`rishabh-gupta-adwin`)
+5. **Rishabh Gupta – Instagram:** [Rishabh Gupta Executive](https://www.instagram.com/rishabhxadwin/) (`@rishabhgupta_adwin`)
+6. **Rishabh Gupta – LinkedIn:** [Rishabh Gupta Executive Profile](https://www.linkedin.com/in/rishabh-gupta-0b47473a9/) (`rishabh-gupta-adwin`)
 
 *Note: All social channels, handles, and URLs are stored dynamically in the relational database and can be edited, deactivated, or expanded directly from the Admin Settings panel.*
 
