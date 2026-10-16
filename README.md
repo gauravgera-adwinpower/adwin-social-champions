@@ -51,7 +51,7 @@
   - **Share / Repost:** 5 points
   - **Comment:** 5 points
   - **Maximum Base Set:** 20 points for completing all four activities on a post.
-- **Evidence Verification:** Points are **never awarded automatically via checkboxes**. Every claim requires a post reference and screenshot proof. Points are credited only when an authorized reviewer (Gaurav Gera / Praveen Singh) changes the status to `APPROVED`.
+- **Evidence Verification:** Points are **never awarded automatically via checkboxes**. Every claim requires a post reference and screenshot proof. Points are credited only when an authorized reviewer (Gaurav Gera / Ruchi Singh) changes the status to `APPROVED`.
 - **Duplicate Claim Blocker:** The system enforces a unique database constraint on `(employee_id, channel_id, content_ref, activity_type_id)`. Re-submitting the same post for repeat points is strictly prevented.
 - **Anti-Spam Policy:** Meaningful, authentic comments must be at least 8 characters. Spam or 2-word comments are rejected.
 - **Disciplinary Rule:** Repeated fraudulent claims result in formal disqualification with a mandatory audit reason recorded by Admin.
@@ -80,7 +80,7 @@ All demo accounts share the default test password: `password123`
 | Full Name | Role | Email | Employee Code | Department | Category |
 |---|---|---|---|---|---|
 | **Gaurav Gera** | `ADMIN` | `gaurav.gera@adwin.com` | `ADW-001` | Sales & Digital Marketing | Staff |
-| **Praveen Singh** | `HR` | `praveen.singh@adwin.com` | `ADW-002` | Human Resources & Admin | Staff |
+| **Ruchi Singh** | `HR` | `ruchi.singh@adwin.com` | `ADW-002` | Human Resources & Admin | Staff |
 | **Hardeep Singh** | `EMPLOYEE` | `hardeep.singh@adwin.com` | `ADW-003` | Sales & Digital Marketing | Staff |
 | **Jai Shankar Ji** | `EMPLOYEE` | `jai.shankar@adwin.com` | `ADW-004` | Logistics & Supply Chain | Supervisors |
 | **Rajesh Sharma** | `EMPLOYEE` | `rajesh.sharma@adwin.com` | `ADW-101` | Manufacturing & Production | Supervisors |
