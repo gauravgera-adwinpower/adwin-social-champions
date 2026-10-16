@@ -21,9 +21,9 @@
 | Team Member | Official Role | Dashboard Capabilities |
 |---|---|---|
 | **Gaurav Gera** | Digital Marketing & Program/Admin Lead | Primary Administrator. Full access to employee rosters, points matrix, challenge rules, audit logs, winner declarations, and disciplinary actions. |
-| **Praveen Singh** | HR & Employee Coordination Lead | Verification Lead. Reviews evidence queue, approves/rejects submissions, flags false claims, and manages HR communications. |
+| **Ruchi Singh** | HR & Employee Coordination Lead | Verification Lead. Reviews evidence queue, approves/rejects submissions, flags false claims, and manages HR communications. |
 | **Hardeep Singh** | Content & Moment Capture Lead | Photography & Videography Lead. Reviews shop-floor innovative moments submitted by workers and awards bonus points. |
-| **Jai Shankar Ji** | Logistics & Rewards Support Lead | Manages inventory, certificates, and fulfillment for the **Gift Hamper + Shield** recognition awards. |
+| **Jai Shankar** | Logistics & Rewards Support Lead | Manages inventory, certificates, and fulfillment for the **Gift Hamper + Shield** recognition awards. |
 
 ---
 
